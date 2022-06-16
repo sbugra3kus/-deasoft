@@ -1,0 +1,63 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 2544milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 2544"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 55849"}
+{"logLevel":"info","message":"Listening on port:55849"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.addToBasket' and 'Test.StepImplementation.addToBasket'"}
+{"logLevel":"debug","message":"Found Sepete ekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.AssertBack' and 'Test.StepImplementation.AssertBack'"}
+{"logLevel":"debug","message":"Found elementte {} değeri var mı in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.implementation1' and 'Test.StepImplementation.implementation1'"}
+{"logLevel":"debug","message":"Found {} saniye kadar bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.searchButton' and 'Test.StepImplementation.searchButton'"}
+{"logLevel":"debug","message":"Found Arama Butonuna Tıklama in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.productIndex' and 'Test.StepImplementation.productIndex'"}
+{"logLevel":"debug","message":"Found Urun detayi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.waitForSecond' and 'Test.StepImplementation.waitForSecond'"}
+{"logLevel":"debug","message":"Found {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.List' and 'Test.StepImplementation.List'"}
+{"logLevel":"debug","message":"Found Miktar seçme in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.Basket' and 'Test.StepImplementation.Basket'"}
+{"logLevel":"debug","message":"Found Sepete Git in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.scrollToElement' and 'Test.StepImplementation.scrollToElement'"}
+{"logLevel":"debug","message":"Found Urune IN in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Test.StepImplementation.searchKey' and 'Test.StepImplementation.searchKey'"}
+{"logLevel":"debug","message":"Found Arama kutusuna {} yazıldı in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tSepete ekle : public void addToBasket()"}
+{"logLevel":"debug","message":"\tArama Butonuna Tıklama : public void searchButton()"}
+{"logLevel":"debug","message":"\tSepete Git : public void Basket()"}
+{"logLevel":"debug","message":"\t{} saniye bekle : public void waitForSecond(Integer x) throws InterruptedException"}
+{"logLevel":"debug","message":"\tUrun detayi : public void productIndex()"}
+{"logLevel":"debug","message":"\telementte {} değeri var mı : public void AssertBack()"}
+{"logLevel":"debug","message":"\tMiktar seçme : public void List()"}
+{"logLevel":"debug","message":"\t{} saniye kadar bekle : public void implementation1(Object arg0)"}
+{"logLevel":"debug","message":"\tUrune IN : public void scrollToElement()"}
+{"logLevel":"debug","message":"\tArama kutusuna {} yazıldı : public void searchKey(String key)"}
+Starting ChromeDriver 102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819}) on port 28753
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Haz 15, 2022 3:55:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Arama Butonuna Tıklama' using 'class Test.StepImplementation.searchButton"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond"}
+{"logLevel":"debug","message":"Executing 'Arama kutusuna {} yazıldı' using 'class Test.StepImplementation.searchKey"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond"}
+{"logLevel":"debug","message":"Executing 'Urune IN' using 'class Test.StepImplementation.scrollToElement"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond"}
+{"logLevel":"debug","message":"Executing 'Urun detayi' using 'class Test.StepImplementation.productIndex"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond"}
+{"logLevel":"debug","message":"Executing 'Miktar seçme' using 'class Test.StepImplementation.List"}
+{"logLevel":"debug","message":"Executing 'Sepete ekle' using 'class Test.StepImplementation.addToBasket"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond"}
+{"logLevel":"debug","message":"Executing 'Sepete Git' using 'class Test.StepImplementation.Basket"}
+{"logLevel":"debug","message":"Executing 'elementte {} değeri var mı' using 'class Test.StepImplementation.AssertBack"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

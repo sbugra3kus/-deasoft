@@ -1,0 +1,791 @@
+15-06-2022 15:41:45.824 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\.gauge\screenshots
+15-06-2022 15:41:45.830 [Gauge] [DEBUG] Plugin html-report is already installed.
+15-06-2022 15:41:45.832 [Gauge] [DEBUG] Plugin java is already installed.
+15-06-2022 15:41:45.833 [Gauge] [DEBUG] Parsing started.
+15-06-2022 15:41:45.833 [Gauge] [DEBUG] Started concepts parsing.
+15-06-2022 15:41:45.847 [Gauge] [DEBUG] 0 concepts parsing completed.
+15-06-2022 15:41:45.848 [Gauge] [DEBUG] Started specifications parsing.
+15-06-2022 15:41:45.849 [Gauge] [DEBUG] 1 specifications parsing completed.
+15-06-2022 15:41:45.849 [Gauge] [DEBUG] Parsing completed.
+15-06-2022 15:41:45.905 [java] [DEBUG] ***** Printing Properties/Env Values *****
+15-06-2022 15:41:45.943 [java] [DEBUG] PATH: C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\VulkanSDK\1.3.211.0\Bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.8.0_291\bin;C:\Program Files\Maven\apache-maven-3.6.3\bin;C:\Program Files\Gauge\bin;C:\Users\Buğra\AppData\Local\Microsoft\WindowsApps;C:\Users\Buğra\AppData\Roaming\npm;C:\Users\Buğra\AppData\Roaming\gauge\plugins\screenshot\0.1.0
+15-06-2022 15:41:45.943 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk1.8.0_291
+15-06-2022 15:41:45.943 [java] [DEBUG] gauge_project_root: C:\Users\Buğra\IdeaProjects\IdeasoftAssigment
+15-06-2022 15:41:45.943 [java] [DEBUG] gauge_parallel_streams_count: 
+15-06-2022 15:41:45.943 [java] [DEBUG] gauge_reports_dir: reports
+15-06-2022 15:41:45.943 [java] [DEBUG] overwrite_reports: true
+15-06-2022 15:41:45.943 [java] [DEBUG] logs_directory: logs
+15-06-2022 15:41:45.943 [java] [DEBUG] enable_multithreading: 
+15-06-2022 15:41:45.943 [java] [DEBUG] gauge_specs_dir: specs
+15-06-2022 15:41:45.943 [java] [DEBUG] csv_delimiter: ,
+15-06-2022 15:41:45.943 [java] [DEBUG] gauge_java_home: 
+15-06-2022 15:41:45.943 [java] [DEBUG] gauge_custom_build_path: 
+15-06-2022 15:41:45.943 [java] [DEBUG] gauge_additional_libs: libs/*
+15-06-2022 15:41:45.943 [java] [DEBUG] gauge_jvm_args: 
+15-06-2022 15:41:45.943 [java] [DEBUG] gauge_custom_compile_dir: 
+15-06-2022 15:41:45.943 [java] [DEBUG] gauge_clear_state_level: scenario
+15-06-2022 15:41:45.943 [java] [DEBUG] ***** END *****
+15-06-2022 15:41:46.303 [Gauge] [DEBUG] Checking updates...
+15-06-2022 15:41:46.342 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:41:47.054 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:41:47.231 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:41:47.372 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:41:47.474 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:41:52.870 [java] [ERROR] Installed version of gauge-java (0.9.1) does not match with dependency gauge-java (0.7.15) specified in pom.xml file
+15-06-2022 15:41:52.870 [java] [DEBUG] classpath set to C:\Program Files\Java\jdk1.8.0_291\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\rt.jar;C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\target\test-classes;C:\Users\Buğra\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;C:\Users\Buğra\.m2\repository\org\assertj\assertj-core\3.19.0\assertj-core-3.19.0.jar;C:\Users\Buğra\.m2\repository\org\reflections\reflections\0.9.9\reflections-0.9.9.jar;C:\Users\Buğra\.m2\repository\org\javassist\javassist\3.18.2-GA\javassist-3.18.2-GA.jar;C:\Users\Buğra\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\Buğra\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\Buğra\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\Buğra\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\Buğra\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\Buğra\.m2\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;C:\Users\Buğra\.m2\repository\com\google\guava\guava\30.1.1-jre\guava-30.1.1-jre.jar;C:\Users\Buğra\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Buğra\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Buğra\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Buğra\.m2\repository\org\checkerframework\checker-qual\3.8.0\checker-qual-3.8.0.jar;C:\Users\Buğra\.m2\repository\com\google\errorprone\error_prone_annotations\2.5.1\error_prone_annotations-2.5.1.jar;C:\Users\Buğra\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;C:\Users\Buğra\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\Buğra\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\Buğra\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;C:\Users\Buğra\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;C:\Users\Buğra\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;C:\Users\Buğra\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\Buğra\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Buğra\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\Buğra\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\Buğra\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Buğra\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\Buğra\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.3\log4j-api-2.13.3.jar;C:\Users\Buğra\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.3\log4j-core-2.13.3.jar
+15-06-2022 15:41:52.970 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk1.8.0_291\jre\bin\java.exe
+15-06-2022 15:41:52.970 [java] [DEBUG] running - C:\Program Files\Java\jdk1.8.0_291\jre\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+15-06-2022 15:41:52.970 [java] [DEBUG] stdout/stderr is logged to logs\5816-java.exe.out
+15-06-2022 15:41:53.605 [java] [DEBUG] multithreading is set to false
+15-06-2022 15:41:54.258 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+15-06-2022 15:41:56.510 [java] [DEBUG] gauge-java took 2778milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+15-06-2022 15:41:56.510 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 2778
+15-06-2022 15:41:56.510 [java] [DEBUG] starting gRPC server...
+15-06-2022 15:41:57.332 [java] [DEBUG] started gRPC server on port 55360
+15-06-2022 15:41:57.332 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 55360
+15-06-2022 15:41:57.563 [Gauge] [DEBUG] Successfully made the connection with runner with port: 55360
+15-06-2022 15:41:57.563 [Gauge] [DEBUG] Validation started.
+15-06-2022 15:41:59.823 [java] [DEBUG] Scanning packages for steps
+15-06-2022 15:41:59.849 [java] [DEBUG] Comparing 'Test.StepImplementation.addToBasket' and 'Test.StepImplementation.addToBasket'
+15-06-2022 15:41:59.850 [java] [DEBUG] Found Sepete ekle in current project scope.
+15-06-2022 15:41:59.850 [java] [DEBUG] Comparing 'Test.StepImplementation.AssertBack' and 'Test.StepImplementation.AssertBack'
+15-06-2022 15:41:59.850 [java] [DEBUG] Found ASSERT COUNT in current project scope.
+15-06-2022 15:41:59.850 [java] [DEBUG] Comparing 'Test.StepImplementation.implementation1' and 'Test.StepImplementation.implementation1'
+15-06-2022 15:41:59.850 [java] [DEBUG] Found {} saniye kadar bekle in current project scope.
+15-06-2022 15:41:59.851 [java] [DEBUG] Comparing 'Test.StepImplementation.searchButton' and 'Test.StepImplementation.searchButton'
+15-06-2022 15:41:59.851 [java] [DEBUG] Found Arama Butonuna Tıklama in current project scope.
+15-06-2022 15:41:59.851 [java] [DEBUG] Comparing 'Test.StepImplementation.productIndex' and 'Test.StepImplementation.productIndex'
+15-06-2022 15:41:59.851 [java] [DEBUG] Found Urun detayi in current project scope.
+15-06-2022 15:41:59.851 [java] [DEBUG] Comparing 'Test.StepImplementation.waitForSecond' and 'Test.StepImplementation.waitForSecond'
+15-06-2022 15:41:59.851 [java] [DEBUG] Found {} saniye bekle in current project scope.
+15-06-2022 15:41:59.852 [java] [DEBUG] Comparing 'Test.StepImplementation.List' and 'Test.StepImplementation.List'
+15-06-2022 15:41:59.852 [java] [DEBUG] Found Miktar seçme in current project scope.
+15-06-2022 15:41:59.852 [java] [DEBUG] Comparing 'Test.StepImplementation.Basket' and 'Test.StepImplementation.Basket'
+15-06-2022 15:41:59.852 [java] [DEBUG] Found Sepete Git in current project scope.
+15-06-2022 15:41:59.853 [java] [DEBUG] Comparing 'Test.StepImplementation.scrollToElement' and 'Test.StepImplementation.scrollToElement'
+15-06-2022 15:41:59.853 [java] [DEBUG] Found Urune IN in current project scope.
+15-06-2022 15:41:59.853 [java] [DEBUG] Comparing 'Test.StepImplementation.searchKey' and 'Test.StepImplementation.searchKey'
+15-06-2022 15:41:59.853 [java] [DEBUG] Found Arama kutusuna {} yazıldı in current project scope.
+15-06-2022 15:41:59.853 [java] [DEBUG] Scanning packages for hooks
+15-06-2022 15:41:59.870 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+15-06-2022 15:41:59.969 [java] [DEBUG] 	Sepete ekle : public void addToBasket()
+15-06-2022 15:41:59.969 [java] [DEBUG] 	Arama Butonuna Tıklama : public void searchButton()
+15-06-2022 15:41:59.969 [java] [DEBUG] 	Sepete Git : public void Basket()
+15-06-2022 15:41:59.969 [java] [DEBUG] 	{} saniye bekle : public void waitForSecond(Integer x) throws InterruptedException
+15-06-2022 15:41:59.969 [java] [DEBUG] 	Urun detayi : public void productIndex()
+15-06-2022 15:41:59.969 [java] [DEBUG] 	Miktar seçme : public void List()
+15-06-2022 15:41:59.969 [java] [DEBUG] 	{} saniye kadar bekle : public void implementation1(Object arg0)
+15-06-2022 15:41:59.969 [java] [DEBUG] 	Urune IN : public void scrollToElement()
+15-06-2022 15:41:59.969 [java] [DEBUG] 	ASSERT COUNT : public void AssertBack()
+15-06-2022 15:41:59.969 [java] [DEBUG] 	Arama kutusuna {} yazıldı : public void searchKey(String key)
+15-06-2022 15:42:03.189 [Gauge] [DEBUG] Validation completed.
+15-06-2022 15:42:03.191 [Gauge] [DEBUG] Run started
+15-06-2022 15:42:03.193 [Gauge] [DEBUG] Starting Html Report plugin
+15-06-2022 15:42:03.227 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 55365
+15-06-2022 15:42:03.228 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 55365
+15-06-2022 15:42:03.228 [Gauge] [DEBUG] Initialising suite data store.
+15-06-2022 15:42:15.845 [java] [DEBUG] Executing 'Arama Butonuna Tıklama' using 'class Test.StepImplementation.searchButton
+15-06-2022 15:42:16.234 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:42:18.246 [java] [DEBUG] Executing 'Arama kutusuna {} yazıldı' using 'class Test.StepImplementation.searchKey
+15-06-2022 15:42:18.904 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:42:20.920 [java] [DEBUG] Executing 'Urune IN' using 'class Test.StepImplementation.scrollToElement
+15-06-2022 15:42:20.998 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:42:23.019 [java] [DEBUG] Executing 'Urun detayi' using 'class Test.StepImplementation.productIndex
+15-06-2022 15:42:24.424 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:42:26.437 [java] [DEBUG] Executing 'Miktar seçme' using 'class Test.StepImplementation.List
+15-06-2022 15:42:26.826 [java] [DEBUG] Executing 'Sepete ekle' using 'class Test.StepImplementation.addToBasket
+15-06-2022 15:42:27.009 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:42:29.036 [java] [DEBUG] Executing 'Sepete Git' using 'class Test.StepImplementation.Basket
+15-06-2022 15:42:37.260 [java] [DEBUG] Executing 'ASSERT COUNT' using 'class Test.StepImplementation.AssertBack
+15-06-2022 15:42:38.764 [html-report] [DEBUG] Transformed SuiteResult to report structure
+15-06-2022 15:42:39.180 [html-report] [INFO] Successfully generated html-report to => C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\reports\html-report\index.html
+15-06-2022 15:42:39.180 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\Buğra\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+15-06-2022 15:42:39.183 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+15-06-2022 15:42:39.278 [java] [DEBUG] Killing Java runner...
+15-06-2022 15:42:39.278 [java] [DEBUG] Stopping execution pool...
+15-06-2022 15:42:39.278 [java] [DEBUG] Shutting down grpc server...
+15-06-2022 15:42:39.288 [java] [DEBUG] Runner killed gracefully.
+15-06-2022 15:42:40.166 [Gauge] [DEBUG] Runner with PID:5816 has exited
+15-06-2022 15:42:40.166 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+15-06-2022 15:42:40.166 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15-06-2022 15:42:40.166 [Gauge] [INFO] 
+Total time taken: 35.55s
+15-06-2022 15:42:40.167 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+15-06-2022 15:54:01.412 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\.gauge\screenshots
+15-06-2022 15:54:01.416 [Gauge] [DEBUG] Plugin java is already installed.
+15-06-2022 15:54:01.418 [Gauge] [DEBUG] Plugin html-report is already installed.
+15-06-2022 15:54:01.419 [Gauge] [DEBUG] Parsing started.
+15-06-2022 15:54:01.419 [Gauge] [DEBUG] Started concepts parsing.
+15-06-2022 15:54:01.428 [Gauge] [DEBUG] 0 concepts parsing completed.
+15-06-2022 15:54:01.428 [Gauge] [DEBUG] Started specifications parsing.
+15-06-2022 15:54:01.431 [Gauge] [DEBUG] 1 specifications parsing completed.
+15-06-2022 15:54:01.431 [Gauge] [DEBUG] Parsing completed.
+15-06-2022 15:54:01.495 [java] [DEBUG] ***** Printing Properties/Env Values *****
+15-06-2022 15:54:01.495 [java] [DEBUG] PATH: C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\VulkanSDK\1.3.211.0\Bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.8.0_291\bin;C:\Program Files\Maven\apache-maven-3.6.3\bin;C:\Program Files\Gauge\bin;C:\Users\Buğra\AppData\Local\Microsoft\WindowsApps;C:\Users\Buğra\AppData\Roaming\npm;C:\Users\Buğra\AppData\Roaming\gauge\plugins\screenshot\0.1.0
+15-06-2022 15:54:01.495 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk1.8.0_291
+15-06-2022 15:54:01.495 [java] [DEBUG] gauge_project_root: C:\Users\Buğra\IdeaProjects\IdeasoftAssigment
+15-06-2022 15:54:01.496 [java] [DEBUG] gauge_parallel_streams_count: 
+15-06-2022 15:54:01.496 [java] [DEBUG] gauge_reports_dir: reports
+15-06-2022 15:54:01.496 [java] [DEBUG] overwrite_reports: true
+15-06-2022 15:54:01.496 [java] [DEBUG] logs_directory: logs
+15-06-2022 15:54:01.496 [java] [DEBUG] enable_multithreading: 
+15-06-2022 15:54:01.496 [java] [DEBUG] gauge_specs_dir: specs
+15-06-2022 15:54:01.496 [java] [DEBUG] csv_delimiter: ,
+15-06-2022 15:54:01.496 [java] [DEBUG] gauge_java_home: 
+15-06-2022 15:54:01.496 [java] [DEBUG] gauge_custom_build_path: 
+15-06-2022 15:54:01.496 [java] [DEBUG] gauge_additional_libs: libs/*
+15-06-2022 15:54:01.496 [java] [DEBUG] gauge_jvm_args: 
+15-06-2022 15:54:01.496 [java] [DEBUG] gauge_custom_compile_dir: 
+15-06-2022 15:54:01.496 [java] [DEBUG] gauge_clear_state_level: scenario
+15-06-2022 15:54:01.496 [java] [DEBUG] ***** END *****
+15-06-2022 15:54:01.939 [Gauge] [DEBUG] Checking updates...
+15-06-2022 15:54:01.943 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:54:02.336 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:54:03.780 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:54:03.879 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:54:04.006 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:54:07.432 [java] [ERROR] Installed version of gauge-java (0.9.1) does not match with dependency gauge-java (0.7.15) specified in pom.xml file
+15-06-2022 15:54:07.432 [java] [DEBUG] classpath set to C:\Program Files\Java\jdk1.8.0_291\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\rt.jar;C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\target\test-classes;C:\Users\Buğra\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;C:\Users\Buğra\.m2\repository\org\assertj\assertj-core\3.19.0\assertj-core-3.19.0.jar;C:\Users\Buğra\.m2\repository\org\reflections\reflections\0.9.9\reflections-0.9.9.jar;C:\Users\Buğra\.m2\repository\org\javassist\javassist\3.18.2-GA\javassist-3.18.2-GA.jar;C:\Users\Buğra\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\Buğra\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\Buğra\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\Buğra\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\Buğra\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\Buğra\.m2\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;C:\Users\Buğra\.m2\repository\com\google\guava\guava\30.1.1-jre\guava-30.1.1-jre.jar;C:\Users\Buğra\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Buğra\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Buğra\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Buğra\.m2\repository\org\checkerframework\checker-qual\3.8.0\checker-qual-3.8.0.jar;C:\Users\Buğra\.m2\repository\com\google\errorprone\error_prone_annotations\2.5.1\error_prone_annotations-2.5.1.jar;C:\Users\Buğra\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;C:\Users\Buğra\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\Buğra\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\Buğra\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;C:\Users\Buğra\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;C:\Users\Buğra\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;C:\Users\Buğra\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\Buğra\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Buğra\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\Buğra\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\Buğra\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Buğra\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\Buğra\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.3\log4j-api-2.13.3.jar;C:\Users\Buğra\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.3\log4j-core-2.13.3.jar
+15-06-2022 15:54:07.518 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk1.8.0_291\jre\bin\java.exe
+15-06-2022 15:54:07.518 [java] [DEBUG] running - C:\Program Files\Java\jdk1.8.0_291\jre\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+15-06-2022 15:54:07.518 [java] [DEBUG] stdout/stderr is logged to logs\7888-java.exe.out
+15-06-2022 15:54:08.142 [java] [DEBUG] multithreading is set to false
+15-06-2022 15:54:08.789 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+15-06-2022 15:54:10.734 [java] [DEBUG] gauge-java took 2569milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+15-06-2022 15:54:10.734 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 2569
+15-06-2022 15:54:10.734 [java] [DEBUG] starting gRPC server...
+15-06-2022 15:54:11.471 [java] [DEBUG] started gRPC server on port 55759
+15-06-2022 15:54:11.471 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 55759
+15-06-2022 15:54:11.765 [Gauge] [DEBUG] Successfully made the connection with runner with port: 55759
+15-06-2022 15:54:11.765 [Gauge] [DEBUG] Validation started.
+15-06-2022 15:54:14.291 [java] [DEBUG] Scanning packages for steps
+15-06-2022 15:54:14.318 [java] [DEBUG] Comparing 'Test.StepImplementation.addToBasket' and 'Test.StepImplementation.addToBasket'
+15-06-2022 15:54:14.319 [java] [DEBUG] Found Sepete ekle in current project scope.
+15-06-2022 15:54:14.319 [java] [DEBUG] Comparing 'Test.StepImplementation.AssertBack' and 'Test.StepImplementation.AssertBack'
+15-06-2022 15:54:14.319 [java] [DEBUG] Found elementte {} değeri var mı in current project scope.
+15-06-2022 15:54:14.319 [java] [DEBUG] Comparing 'Test.StepImplementation.implementation1' and 'Test.StepImplementation.implementation1'
+15-06-2022 15:54:14.319 [java] [DEBUG] Found {} saniye kadar bekle in current project scope.
+15-06-2022 15:54:14.319 [java] [DEBUG] Comparing 'Test.StepImplementation.searchButton' and 'Test.StepImplementation.searchButton'
+15-06-2022 15:54:14.319 [java] [DEBUG] Found Arama Butonuna Tıklama in current project scope.
+15-06-2022 15:54:14.320 [java] [DEBUG] Comparing 'Test.StepImplementation.productIndex' and 'Test.StepImplementation.productIndex'
+15-06-2022 15:54:14.320 [java] [DEBUG] Found Urun detayi in current project scope.
+15-06-2022 15:54:14.320 [java] [DEBUG] Comparing 'Test.StepImplementation.waitForSecond' and 'Test.StepImplementation.waitForSecond'
+15-06-2022 15:54:14.320 [java] [DEBUG] Found {} saniye bekle in current project scope.
+15-06-2022 15:54:14.320 [java] [DEBUG] Comparing 'Test.StepImplementation.List' and 'Test.StepImplementation.List'
+15-06-2022 15:54:14.320 [java] [DEBUG] Found Miktar seçme in current project scope.
+15-06-2022 15:54:14.321 [java] [DEBUG] Comparing 'Test.StepImplementation.Basket' and 'Test.StepImplementation.Basket'
+15-06-2022 15:54:14.321 [java] [DEBUG] Found Sepete Git in current project scope.
+15-06-2022 15:54:14.321 [java] [DEBUG] Comparing 'Test.StepImplementation.scrollToElement' and 'Test.StepImplementation.scrollToElement'
+15-06-2022 15:54:14.321 [java] [DEBUG] Found Urune IN in current project scope.
+15-06-2022 15:54:14.321 [java] [DEBUG] Comparing 'Test.StepImplementation.searchKey' and 'Test.StepImplementation.searchKey'
+15-06-2022 15:54:14.321 [java] [DEBUG] Found Arama kutusuna {} yazıldı in current project scope.
+15-06-2022 15:54:14.321 [java] [DEBUG] Scanning packages for hooks
+15-06-2022 15:54:14.336 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+15-06-2022 15:54:14.344 [java] [DEBUG] 	Sepete ekle : public void addToBasket()
+15-06-2022 15:54:14.344 [java] [DEBUG] 	Arama Butonuna Tıklama : public void searchButton()
+15-06-2022 15:54:14.344 [java] [DEBUG] 	Sepete Git : public void Basket()
+15-06-2022 15:54:14.344 [java] [DEBUG] 	{} saniye bekle : public void waitForSecond(Integer x) throws InterruptedException
+15-06-2022 15:54:14.344 [java] [DEBUG] 	Urun detayi : public void productIndex()
+15-06-2022 15:54:14.344 [java] [DEBUG] 	elementte {} değeri var mı : public void AssertBack(String key, String expectedText)
+15-06-2022 15:54:14.344 [java] [DEBUG] 	Miktar seçme : public void List()
+15-06-2022 15:54:14.344 [java] [DEBUG] 	{} saniye kadar bekle : public void implementation1(Object arg0)
+15-06-2022 15:54:14.344 [java] [DEBUG] 	Urune IN : public void scrollToElement()
+15-06-2022 15:54:14.344 [java] [DEBUG] 	Arama kutusuna {} yazıldı : public void searchKey(String key)
+15-06-2022 15:54:17.483 [Gauge] [DEBUG] Validation completed.
+15-06-2022 15:54:17.483 [Gauge] [DEBUG] Run started
+15-06-2022 15:54:17.485 [Gauge] [DEBUG] Starting Html Report plugin
+15-06-2022 15:54:17.516 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 55765
+15-06-2022 15:54:17.517 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 55765
+15-06-2022 15:54:17.517 [Gauge] [DEBUG] Initialising suite data store.
+15-06-2022 15:54:23.568 [java] [DEBUG] Executing 'Arama Butonuna Tıklama' using 'class Test.StepImplementation.searchButton
+15-06-2022 15:54:23.803 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:54:25.815 [java] [DEBUG] Executing 'Arama kutusuna {} yazıldı' using 'class Test.StepImplementation.searchKey
+15-06-2022 15:54:26.740 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:54:28.767 [java] [DEBUG] Executing 'Urune IN' using 'class Test.StepImplementation.scrollToElement
+15-06-2022 15:54:28.841 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:54:30.862 [java] [DEBUG] Executing 'Urun detayi' using 'class Test.StepImplementation.productIndex
+15-06-2022 15:54:32.454 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:54:34.469 [java] [DEBUG] Executing 'Miktar seçme' using 'class Test.StepImplementation.List
+15-06-2022 15:54:34.779 [java] [DEBUG] Executing 'Sepete ekle' using 'class Test.StepImplementation.addToBasket
+15-06-2022 15:54:34.949 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:54:36.961 [java] [DEBUG] Executing 'Sepete Git' using 'class Test.StepImplementation.Basket
+15-06-2022 15:54:38.734 [java] [DEBUG] Executing 'elementte {} değeri var mı' using 'class Test.StepImplementation.AssertBack
+15-06-2022 15:54:39.644 [html-report] [DEBUG] Transformed SuiteResult to report structure
+15-06-2022 15:54:39.711 [html-report] [INFO] Successfully generated html-report to => C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\reports\html-report\index.html
+15-06-2022 15:54:39.711 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\Buğra\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+15-06-2022 15:54:39.711 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+15-06-2022 15:54:39.726 [java] [DEBUG] Killing Java runner...
+15-06-2022 15:54:39.726 [java] [DEBUG] Stopping execution pool...
+15-06-2022 15:54:39.726 [java] [DEBUG] Shutting down grpc server...
+15-06-2022 15:54:39.753 [java] [DEBUG] Runner killed gracefully.
+15-06-2022 15:54:40.490 [Gauge] [DEBUG] Runner with PID:7888 has exited
+15-06-2022 15:54:40.490 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+15-06-2022 15:54:40.490 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15-06-2022 15:54:40.490 [Gauge] [INFO] 
+Total time taken: 22.158s
+15-06-2022 15:54:40.491 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+15-06-2022 15:55:29.180 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\.gauge\screenshots
+15-06-2022 15:55:29.183 [Gauge] [DEBUG] Plugin java is already installed.
+15-06-2022 15:55:29.185 [Gauge] [DEBUG] Plugin html-report is already installed.
+15-06-2022 15:55:29.186 [Gauge] [DEBUG] Parsing started.
+15-06-2022 15:55:29.186 [Gauge] [DEBUG] Started concepts parsing.
+15-06-2022 15:55:29.196 [Gauge] [DEBUG] 0 concepts parsing completed.
+15-06-2022 15:55:29.196 [Gauge] [DEBUG] Started specifications parsing.
+15-06-2022 15:55:29.198 [Gauge] [DEBUG] 1 specifications parsing completed.
+15-06-2022 15:55:29.198 [Gauge] [DEBUG] Parsing completed.
+15-06-2022 15:55:29.248 [java] [DEBUG] ***** Printing Properties/Env Values *****
+15-06-2022 15:55:29.248 [java] [DEBUG] PATH: C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\VulkanSDK\1.3.211.0\Bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.8.0_291\bin;C:\Program Files\Maven\apache-maven-3.6.3\bin;C:\Program Files\Gauge\bin;C:\Users\Buğra\AppData\Local\Microsoft\WindowsApps;C:\Users\Buğra\AppData\Roaming\npm;C:\Users\Buğra\AppData\Roaming\gauge\plugins\screenshot\0.1.0
+15-06-2022 15:55:29.248 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk1.8.0_291
+15-06-2022 15:55:29.248 [java] [DEBUG] gauge_project_root: C:\Users\Buğra\IdeaProjects\IdeasoftAssigment
+15-06-2022 15:55:29.248 [java] [DEBUG] gauge_parallel_streams_count: 
+15-06-2022 15:55:29.248 [java] [DEBUG] gauge_reports_dir: reports
+15-06-2022 15:55:29.248 [java] [DEBUG] overwrite_reports: true
+15-06-2022 15:55:29.248 [java] [DEBUG] logs_directory: logs
+15-06-2022 15:55:29.248 [java] [DEBUG] enable_multithreading: 
+15-06-2022 15:55:29.248 [java] [DEBUG] gauge_specs_dir: specs
+15-06-2022 15:55:29.248 [java] [DEBUG] csv_delimiter: ,
+15-06-2022 15:55:29.248 [java] [DEBUG] gauge_java_home: 
+15-06-2022 15:55:29.248 [java] [DEBUG] gauge_custom_build_path: 
+15-06-2022 15:55:29.248 [java] [DEBUG] gauge_additional_libs: libs/*
+15-06-2022 15:55:29.248 [java] [DEBUG] gauge_jvm_args: 
+15-06-2022 15:55:29.248 [java] [DEBUG] gauge_custom_compile_dir: 
+15-06-2022 15:55:29.248 [java] [DEBUG] gauge_clear_state_level: scenario
+15-06-2022 15:55:29.248 [java] [DEBUG] ***** END *****
+15-06-2022 15:55:29.803 [Gauge] [DEBUG] Checking updates...
+15-06-2022 15:55:29.810 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:55:30.303 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:55:30.476 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:55:30.653 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:55:30.779 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:55:35.417 [java] [ERROR] Installed version of gauge-java (0.9.1) does not match with dependency gauge-java (0.7.15) specified in pom.xml file
+15-06-2022 15:55:35.417 [java] [DEBUG] classpath set to C:\Program Files\Java\jdk1.8.0_291\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\rt.jar;C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\target\test-classes;C:\Users\Buğra\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;C:\Users\Buğra\.m2\repository\org\assertj\assertj-core\3.19.0\assertj-core-3.19.0.jar;C:\Users\Buğra\.m2\repository\org\reflections\reflections\0.9.9\reflections-0.9.9.jar;C:\Users\Buğra\.m2\repository\org\javassist\javassist\3.18.2-GA\javassist-3.18.2-GA.jar;C:\Users\Buğra\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\Buğra\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\Buğra\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\Buğra\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\Buğra\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\Buğra\.m2\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;C:\Users\Buğra\.m2\repository\com\google\guava\guava\30.1.1-jre\guava-30.1.1-jre.jar;C:\Users\Buğra\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Buğra\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Buğra\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Buğra\.m2\repository\org\checkerframework\checker-qual\3.8.0\checker-qual-3.8.0.jar;C:\Users\Buğra\.m2\repository\com\google\errorprone\error_prone_annotations\2.5.1\error_prone_annotations-2.5.1.jar;C:\Users\Buğra\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;C:\Users\Buğra\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\Buğra\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\Buğra\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;C:\Users\Buğra\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;C:\Users\Buğra\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;C:\Users\Buğra\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\Buğra\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Buğra\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\Buğra\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\Buğra\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Buğra\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\Buğra\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.3\log4j-api-2.13.3.jar;C:\Users\Buğra\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.3\log4j-core-2.13.3.jar
+15-06-2022 15:55:35.484 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk1.8.0_291\jre\bin\java.exe
+15-06-2022 15:55:35.484 [java] [DEBUG] running - C:\Program Files\Java\jdk1.8.0_291\jre\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+15-06-2022 15:55:35.484 [java] [DEBUG] stdout/stderr is logged to logs\14112-java.exe.out
+15-06-2022 15:55:35.815 [java] [DEBUG] multithreading is set to false
+15-06-2022 15:55:36.469 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+15-06-2022 15:55:38.385 [java] [DEBUG] gauge-java took 2544milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+15-06-2022 15:55:38.385 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 2544
+15-06-2022 15:55:38.385 [java] [DEBUG] starting gRPC server...
+15-06-2022 15:55:39.263 [java] [DEBUG] started gRPC server on port 55849
+15-06-2022 15:55:39.263 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 55849
+15-06-2022 15:55:39.556 [Gauge] [DEBUG] Successfully made the connection with runner with port: 55849
+15-06-2022 15:55:39.556 [Gauge] [DEBUG] Validation started.
+15-06-2022 15:55:41.987 [java] [DEBUG] Scanning packages for steps
+15-06-2022 15:55:42.013 [java] [DEBUG] Comparing 'Test.StepImplementation.addToBasket' and 'Test.StepImplementation.addToBasket'
+15-06-2022 15:55:42.020 [java] [DEBUG] Found Sepete ekle in current project scope.
+15-06-2022 15:55:42.020 [java] [DEBUG] Comparing 'Test.StepImplementation.AssertBack' and 'Test.StepImplementation.AssertBack'
+15-06-2022 15:55:42.020 [java] [DEBUG] Found elementte {} değeri var mı in current project scope.
+15-06-2022 15:55:42.020 [java] [DEBUG] Comparing 'Test.StepImplementation.implementation1' and 'Test.StepImplementation.implementation1'
+15-06-2022 15:55:42.020 [java] [DEBUG] Found {} saniye kadar bekle in current project scope.
+15-06-2022 15:55:42.020 [java] [DEBUG] Comparing 'Test.StepImplementation.searchButton' and 'Test.StepImplementation.searchButton'
+15-06-2022 15:55:42.020 [java] [DEBUG] Found Arama Butonuna Tıklama in current project scope.
+15-06-2022 15:55:42.020 [java] [DEBUG] Comparing 'Test.StepImplementation.productIndex' and 'Test.StepImplementation.productIndex'
+15-06-2022 15:55:42.020 [java] [DEBUG] Found Urun detayi in current project scope.
+15-06-2022 15:55:42.020 [java] [DEBUG] Comparing 'Test.StepImplementation.waitForSecond' and 'Test.StepImplementation.waitForSecond'
+15-06-2022 15:55:42.020 [java] [DEBUG] Found {} saniye bekle in current project scope.
+15-06-2022 15:55:42.020 [java] [DEBUG] Comparing 'Test.StepImplementation.List' and 'Test.StepImplementation.List'
+15-06-2022 15:55:42.020 [java] [DEBUG] Found Miktar seçme in current project scope.
+15-06-2022 15:55:42.021 [java] [DEBUG] Comparing 'Test.StepImplementation.Basket' and 'Test.StepImplementation.Basket'
+15-06-2022 15:55:42.021 [java] [DEBUG] Found Sepete Git in current project scope.
+15-06-2022 15:55:42.021 [java] [DEBUG] Comparing 'Test.StepImplementation.scrollToElement' and 'Test.StepImplementation.scrollToElement'
+15-06-2022 15:55:42.021 [java] [DEBUG] Found Urune IN in current project scope.
+15-06-2022 15:55:42.021 [java] [DEBUG] Comparing 'Test.StepImplementation.searchKey' and 'Test.StepImplementation.searchKey'
+15-06-2022 15:55:42.021 [java] [DEBUG] Found Arama kutusuna {} yazıldı in current project scope.
+15-06-2022 15:55:42.021 [java] [DEBUG] Scanning packages for hooks
+15-06-2022 15:55:42.039 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+15-06-2022 15:55:42.040 [java] [DEBUG] 	Sepete ekle : public void addToBasket()
+15-06-2022 15:55:42.040 [java] [DEBUG] 	Arama Butonuna Tıklama : public void searchButton()
+15-06-2022 15:55:42.040 [java] [DEBUG] 	Sepete Git : public void Basket()
+15-06-2022 15:55:42.040 [java] [DEBUG] 	{} saniye bekle : public void waitForSecond(Integer x) throws InterruptedException
+15-06-2022 15:55:42.040 [java] [DEBUG] 	Urun detayi : public void productIndex()
+15-06-2022 15:55:42.040 [java] [DEBUG] 	elementte {} değeri var mı : public void AssertBack()
+15-06-2022 15:55:42.040 [java] [DEBUG] 	Miktar seçme : public void List()
+15-06-2022 15:55:42.040 [java] [DEBUG] 	{} saniye kadar bekle : public void implementation1(Object arg0)
+15-06-2022 15:55:42.040 [java] [DEBUG] 	Urune IN : public void scrollToElement()
+15-06-2022 15:55:42.040 [java] [DEBUG] 	Arama kutusuna {} yazıldı : public void searchKey(String key)
+15-06-2022 15:55:45.182 [Gauge] [DEBUG] Validation completed.
+15-06-2022 15:55:45.182 [Gauge] [DEBUG] Run started
+15-06-2022 15:55:45.184 [Gauge] [DEBUG] Starting Html Report plugin
+15-06-2022 15:55:45.214 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 55855
+15-06-2022 15:55:45.215 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 55855
+15-06-2022 15:55:45.215 [Gauge] [DEBUG] Initialising suite data store.
+15-06-2022 15:55:53.900 [java] [DEBUG] Executing 'Arama Butonuna Tıklama' using 'class Test.StepImplementation.searchButton
+15-06-2022 15:55:54.156 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:55:56.173 [java] [DEBUG] Executing 'Arama kutusuna {} yazıldı' using 'class Test.StepImplementation.searchKey
+15-06-2022 15:55:56.874 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:55:58.883 [java] [DEBUG] Executing 'Urune IN' using 'class Test.StepImplementation.scrollToElement
+15-06-2022 15:55:58.955 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:56:00.972 [java] [DEBUG] Executing 'Urun detayi' using 'class Test.StepImplementation.productIndex
+15-06-2022 15:56:02.371 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:56:04.382 [java] [DEBUG] Executing 'Miktar seçme' using 'class Test.StepImplementation.List
+15-06-2022 15:56:04.707 [java] [DEBUG] Executing 'Sepete ekle' using 'class Test.StepImplementation.addToBasket
+15-06-2022 15:56:04.863 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:56:06.892 [java] [DEBUG] Executing 'Sepete Git' using 'class Test.StepImplementation.Basket
+15-06-2022 15:56:08.895 [java] [DEBUG] Executing 'elementte {} değeri var mı' using 'class Test.StepImplementation.AssertBack
+15-06-2022 15:56:09.787 [html-report] [DEBUG] Transformed SuiteResult to report structure
+15-06-2022 15:56:10.187 [html-report] [INFO] Successfully generated html-report to => C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\reports\html-report\index.html
+15-06-2022 15:56:10.187 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\Buğra\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+15-06-2022 15:56:10.190 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+15-06-2022 15:56:10.194 [java] [DEBUG] Killing Java runner...
+15-06-2022 15:56:10.196 [java] [DEBUG] Stopping execution pool...
+15-06-2022 15:56:10.196 [java] [DEBUG] Shutting down grpc server...
+15-06-2022 15:56:10.214 [java] [DEBUG] Runner killed gracefully.
+15-06-2022 15:56:10.977 [Gauge] [DEBUG] Runner with PID:14112 has exited
+15-06-2022 15:56:10.977 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+15-06-2022 15:56:10.977 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15-06-2022 15:56:10.977 [Gauge] [INFO] 
+Total time taken: 24.602s
+15-06-2022 15:56:10.977 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+15-06-2022 15:59:08.080 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\.gauge\screenshots
+15-06-2022 15:59:08.083 [Gauge] [DEBUG] Plugin java is already installed.
+15-06-2022 15:59:08.084 [Gauge] [DEBUG] Plugin html-report is already installed.
+15-06-2022 15:59:08.085 [Gauge] [DEBUG] Parsing started.
+15-06-2022 15:59:08.085 [Gauge] [DEBUG] Started concepts parsing.
+15-06-2022 15:59:08.095 [Gauge] [DEBUG] 0 concepts parsing completed.
+15-06-2022 15:59:08.095 [Gauge] [DEBUG] Started specifications parsing.
+15-06-2022 15:59:08.096 [Gauge] [DEBUG] 1 specifications parsing completed.
+15-06-2022 15:59:08.097 [Gauge] [DEBUG] Parsing completed.
+15-06-2022 15:59:08.153 [java] [DEBUG] ***** Printing Properties/Env Values *****
+15-06-2022 15:59:08.153 [java] [DEBUG] PATH: C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\VulkanSDK\1.3.211.0\Bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.8.0_291\bin;C:\Program Files\Maven\apache-maven-3.6.3\bin;C:\Program Files\Gauge\bin;C:\Users\Buğra\AppData\Local\Microsoft\WindowsApps;C:\Users\Buğra\AppData\Roaming\npm;C:\Users\Buğra\AppData\Roaming\gauge\plugins\screenshot\0.1.0
+15-06-2022 15:59:08.153 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk1.8.0_291
+15-06-2022 15:59:08.153 [java] [DEBUG] gauge_project_root: C:\Users\Buğra\IdeaProjects\IdeasoftAssigment
+15-06-2022 15:59:08.153 [java] [DEBUG] gauge_parallel_streams_count: 
+15-06-2022 15:59:08.153 [java] [DEBUG] gauge_reports_dir: reports
+15-06-2022 15:59:08.153 [java] [DEBUG] overwrite_reports: true
+15-06-2022 15:59:08.153 [java] [DEBUG] logs_directory: logs
+15-06-2022 15:59:08.153 [java] [DEBUG] enable_multithreading: 
+15-06-2022 15:59:08.153 [java] [DEBUG] gauge_specs_dir: specs
+15-06-2022 15:59:08.153 [java] [DEBUG] csv_delimiter: ,
+15-06-2022 15:59:08.153 [java] [DEBUG] gauge_java_home: 
+15-06-2022 15:59:08.153 [java] [DEBUG] gauge_custom_build_path: 
+15-06-2022 15:59:08.153 [java] [DEBUG] gauge_additional_libs: libs/*
+15-06-2022 15:59:08.153 [java] [DEBUG] gauge_jvm_args: 
+15-06-2022 15:59:08.153 [java] [DEBUG] gauge_custom_compile_dir: 
+15-06-2022 15:59:08.153 [java] [DEBUG] gauge_clear_state_level: scenario
+15-06-2022 15:59:08.153 [java] [DEBUG] ***** END *****
+15-06-2022 15:59:08.520 [Gauge] [DEBUG] Checking updates...
+15-06-2022 15:59:08.523 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:59:09.068 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:59:09.213 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:59:09.320 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:59:09.591 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 15:59:14.236 [java] [ERROR] Installed version of gauge-java (0.9.1) does not match with dependency gauge-java (0.7.15) specified in pom.xml file
+15-06-2022 15:59:14.236 [java] [DEBUG] classpath set to C:\Program Files\Java\jdk1.8.0_291\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\rt.jar;C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\target\test-classes;C:\Users\Buğra\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;C:\Users\Buğra\.m2\repository\org\assertj\assertj-core\3.19.0\assertj-core-3.19.0.jar;C:\Users\Buğra\.m2\repository\org\reflections\reflections\0.9.9\reflections-0.9.9.jar;C:\Users\Buğra\.m2\repository\org\javassist\javassist\3.18.2-GA\javassist-3.18.2-GA.jar;C:\Users\Buğra\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\Buğra\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\Buğra\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\Buğra\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\Buğra\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\Buğra\.m2\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;C:\Users\Buğra\.m2\repository\com\google\guava\guava\30.1.1-jre\guava-30.1.1-jre.jar;C:\Users\Buğra\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Buğra\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Buğra\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Buğra\.m2\repository\org\checkerframework\checker-qual\3.8.0\checker-qual-3.8.0.jar;C:\Users\Buğra\.m2\repository\com\google\errorprone\error_prone_annotations\2.5.1\error_prone_annotations-2.5.1.jar;C:\Users\Buğra\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;C:\Users\Buğra\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\Buğra\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\Buğra\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;C:\Users\Buğra\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;C:\Users\Buğra\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;C:\Users\Buğra\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\Buğra\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Buğra\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\Buğra\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\Buğra\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Buğra\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\Buğra\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.3\log4j-api-2.13.3.jar;C:\Users\Buğra\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.3\log4j-core-2.13.3.jar
+15-06-2022 15:59:14.327 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk1.8.0_291\jre\bin\java.exe
+15-06-2022 15:59:14.327 [java] [DEBUG] running - C:\Program Files\Java\jdk1.8.0_291\jre\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+15-06-2022 15:59:14.327 [java] [DEBUG] stdout/stderr is logged to logs\13824-java.exe.out
+15-06-2022 15:59:14.759 [java] [DEBUG] multithreading is set to false
+15-06-2022 15:59:15.396 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+15-06-2022 15:59:17.305 [java] [DEBUG] gauge-java took 2513milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+15-06-2022 15:59:17.305 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 2513
+15-06-2022 15:59:17.305 [java] [DEBUG] starting gRPC server...
+15-06-2022 15:59:18.075 [java] [DEBUG] started gRPC server on port 56004
+15-06-2022 15:59:18.075 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56004
+15-06-2022 15:59:18.358 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56004
+15-06-2022 15:59:18.358 [Gauge] [DEBUG] Validation started.
+15-06-2022 15:59:21.016 [java] [DEBUG] Scanning packages for steps
+15-06-2022 15:59:21.040 [java] [DEBUG] Comparing 'Test.StepImplementation.addToBasket' and 'Test.StepImplementation.addToBasket'
+15-06-2022 15:59:21.041 [java] [DEBUG] Found Sepete ekle in current project scope.
+15-06-2022 15:59:21.041 [java] [DEBUG] Comparing 'Test.StepImplementation.AssertBack' and 'Test.StepImplementation.AssertBack'
+15-06-2022 15:59:21.041 [java] [DEBUG] Found elementte {} değeri var mı in current project scope.
+15-06-2022 15:59:21.041 [java] [DEBUG] Comparing 'Test.StepImplementation.implementation1' and 'Test.StepImplementation.implementation1'
+15-06-2022 15:59:21.042 [java] [DEBUG] Found {} saniye kadar bekle in current project scope.
+15-06-2022 15:59:21.042 [java] [DEBUG] Comparing 'Test.StepImplementation.searchButton' and 'Test.StepImplementation.searchButton'
+15-06-2022 15:59:21.042 [java] [DEBUG] Found Arama Butonuna Tıklama in current project scope.
+15-06-2022 15:59:21.042 [java] [DEBUG] Comparing 'Test.StepImplementation.productIndex' and 'Test.StepImplementation.productIndex'
+15-06-2022 15:59:21.042 [java] [DEBUG] Found Urun detayi in current project scope.
+15-06-2022 15:59:21.045 [java] [DEBUG] Comparing 'Test.StepImplementation.waitForSecond' and 'Test.StepImplementation.waitForSecond'
+15-06-2022 15:59:21.045 [java] [DEBUG] Found {} saniye bekle in current project scope.
+15-06-2022 15:59:21.045 [java] [DEBUG] Comparing 'Test.StepImplementation.List' and 'Test.StepImplementation.List'
+15-06-2022 15:59:21.045 [java] [DEBUG] Found Miktar seçme in current project scope.
+15-06-2022 15:59:21.045 [java] [DEBUG] Comparing 'Test.StepImplementation.Basket' and 'Test.StepImplementation.Basket'
+15-06-2022 15:59:21.045 [java] [DEBUG] Found Sepete Git in current project scope.
+15-06-2022 15:59:21.045 [java] [DEBUG] Comparing 'Test.StepImplementation.scrollToElement' and 'Test.StepImplementation.scrollToElement'
+15-06-2022 15:59:21.045 [java] [DEBUG] Found Urune IN in current project scope.
+15-06-2022 15:59:21.045 [java] [DEBUG] Comparing 'Test.StepImplementation.searchKey' and 'Test.StepImplementation.searchKey'
+15-06-2022 15:59:21.045 [java] [DEBUG] Found Arama kutusuna {} yazıldı in current project scope.
+15-06-2022 15:59:21.045 [java] [DEBUG] Scanning packages for hooks
+15-06-2022 15:59:21.133 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+15-06-2022 15:59:21.133 [java] [DEBUG] 	Sepete ekle : public void addToBasket()
+15-06-2022 15:59:21.133 [java] [DEBUG] 	Arama Butonuna Tıklama : public void searchButton()
+15-06-2022 15:59:21.133 [java] [DEBUG] 	Sepete Git : public void Basket()
+15-06-2022 15:59:21.133 [java] [DEBUG] 	{} saniye bekle : public void waitForSecond(Integer x) throws InterruptedException
+15-06-2022 15:59:21.133 [java] [DEBUG] 	Urun detayi : public void productIndex()
+15-06-2022 15:59:21.133 [java] [DEBUG] 	elementte {} değeri var mı : public void AssertBack()
+15-06-2022 15:59:21.133 [java] [DEBUG] 	Miktar seçme : public void List()
+15-06-2022 15:59:21.133 [java] [DEBUG] 	{} saniye kadar bekle : public void implementation1(Object arg0)
+15-06-2022 15:59:21.133 [java] [DEBUG] 	Urune IN : public void scrollToElement()
+15-06-2022 15:59:21.133 [java] [DEBUG] 	Arama kutusuna {} yazıldı : public void searchKey(String key)
+15-06-2022 15:59:24.188 [Gauge] [DEBUG] Validation completed.
+15-06-2022 15:59:24.188 [Gauge] [DEBUG] Run started
+15-06-2022 15:59:24.190 [Gauge] [DEBUG] Starting Html Report plugin
+15-06-2022 15:59:24.220 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56010
+15-06-2022 15:59:24.223 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56010
+15-06-2022 15:59:24.223 [Gauge] [DEBUG] Initialising suite data store.
+15-06-2022 15:59:29.156 [java] [DEBUG] Executing 'Arama Butonuna Tıklama' using 'class Test.StepImplementation.searchButton
+15-06-2022 15:59:29.418 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:59:31.441 [java] [DEBUG] Executing 'Arama kutusuna {} yazıldı' using 'class Test.StepImplementation.searchKey
+15-06-2022 15:59:32.283 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:59:34.305 [java] [DEBUG] Executing 'Urune IN' using 'class Test.StepImplementation.scrollToElement
+15-06-2022 15:59:34.366 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:59:36.385 [java] [DEBUG] Executing 'Urun detayi' using 'class Test.StepImplementation.productIndex
+15-06-2022 15:59:38.810 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:59:40.829 [java] [DEBUG] Executing 'Miktar seçme' using 'class Test.StepImplementation.List
+15-06-2022 15:59:41.151 [java] [DEBUG] Executing 'Sepete ekle' using 'class Test.StepImplementation.addToBasket
+15-06-2022 15:59:41.299 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 15:59:43.319 [java] [DEBUG] Executing 'Sepete Git' using 'class Test.StepImplementation.Basket
+15-06-2022 15:59:46.079 [html-report] [DEBUG] Transformed SuiteResult to report structure
+15-06-2022 15:59:46.156 [html-report] [INFO] Successfully generated html-report to => C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\reports\html-report\index.html
+15-06-2022 15:59:46.156 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+15-06-2022 15:59:46.156 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\Buğra\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+15-06-2022 15:59:46.176 [java] [DEBUG] Killing Java runner...
+15-06-2022 15:59:46.176 [java] [DEBUG] Stopping execution pool...
+15-06-2022 15:59:46.176 [java] [DEBUG] Shutting down grpc server...
+15-06-2022 15:59:46.179 [java] [DEBUG] Runner killed gracefully.
+15-06-2022 15:59:47.067 [Gauge] [DEBUG] Runner with PID:13824 has exited
+15-06-2022 15:59:47.067 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+15-06-2022 15:59:47.067 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15-06-2022 15:59:47.067 [Gauge] [INFO] 
+Total time taken: 21.817s
+15-06-2022 15:59:47.068 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+15-06-2022 16:00:09.204 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\.gauge\screenshots
+15-06-2022 16:00:09.208 [Gauge] [DEBUG] Plugin java is already installed.
+15-06-2022 16:00:09.209 [Gauge] [DEBUG] Plugin html-report is already installed.
+15-06-2022 16:00:09.211 [Gauge] [DEBUG] Parsing started.
+15-06-2022 16:00:09.211 [Gauge] [DEBUG] Started concepts parsing.
+15-06-2022 16:00:09.223 [Gauge] [DEBUG] 0 concepts parsing completed.
+15-06-2022 16:00:09.223 [Gauge] [DEBUG] Started specifications parsing.
+15-06-2022 16:00:09.224 [Gauge] [DEBUG] 1 specifications parsing completed.
+15-06-2022 16:00:09.225 [Gauge] [DEBUG] Parsing completed.
+15-06-2022 16:00:09.281 [java] [DEBUG] ***** Printing Properties/Env Values *****
+15-06-2022 16:00:09.281 [java] [DEBUG] PATH: C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\VulkanSDK\1.3.211.0\Bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.8.0_291\bin;C:\Program Files\Maven\apache-maven-3.6.3\bin;C:\Program Files\Gauge\bin;C:\Users\Buğra\AppData\Local\Microsoft\WindowsApps;C:\Users\Buğra\AppData\Roaming\npm;C:\Users\Buğra\AppData\Roaming\gauge\plugins\screenshot\0.1.0
+15-06-2022 16:00:09.281 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk1.8.0_291
+15-06-2022 16:00:09.281 [java] [DEBUG] gauge_project_root: C:\Users\Buğra\IdeaProjects\IdeasoftAssigment
+15-06-2022 16:00:09.281 [java] [DEBUG] gauge_parallel_streams_count: 
+15-06-2022 16:00:09.281 [java] [DEBUG] gauge_reports_dir: reports
+15-06-2022 16:00:09.281 [java] [DEBUG] overwrite_reports: true
+15-06-2022 16:00:09.282 [java] [DEBUG] logs_directory: logs
+15-06-2022 16:00:09.282 [java] [DEBUG] enable_multithreading: 
+15-06-2022 16:00:09.282 [java] [DEBUG] gauge_specs_dir: specs
+15-06-2022 16:00:09.282 [java] [DEBUG] csv_delimiter: ,
+15-06-2022 16:00:09.282 [java] [DEBUG] gauge_java_home: 
+15-06-2022 16:00:09.282 [java] [DEBUG] gauge_custom_build_path: 
+15-06-2022 16:00:09.282 [java] [DEBUG] gauge_additional_libs: libs/*
+15-06-2022 16:00:09.282 [java] [DEBUG] gauge_jvm_args: 
+15-06-2022 16:00:09.282 [java] [DEBUG] gauge_custom_compile_dir: 
+15-06-2022 16:00:09.282 [java] [DEBUG] gauge_clear_state_level: scenario
+15-06-2022 16:00:09.282 [java] [DEBUG] ***** END *****
+15-06-2022 16:00:09.614 [Gauge] [DEBUG] Checking updates...
+15-06-2022 16:00:09.618 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 16:00:10.156 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 16:00:10.288 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 16:00:10.382 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 16:00:10.628 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 16:00:14.953 [java] [ERROR] Installed version of gauge-java (0.9.1) does not match with dependency gauge-java (0.7.15) specified in pom.xml file
+15-06-2022 16:00:14.953 [java] [DEBUG] classpath set to C:\Program Files\Java\jdk1.8.0_291\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\rt.jar;C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\target\test-classes;C:\Users\Buğra\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;C:\Users\Buğra\.m2\repository\org\assertj\assertj-core\3.19.0\assertj-core-3.19.0.jar;C:\Users\Buğra\.m2\repository\org\reflections\reflections\0.9.9\reflections-0.9.9.jar;C:\Users\Buğra\.m2\repository\org\javassist\javassist\3.18.2-GA\javassist-3.18.2-GA.jar;C:\Users\Buğra\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\Buğra\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\Buğra\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\Buğra\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\Buğra\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\Buğra\.m2\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;C:\Users\Buğra\.m2\repository\com\google\guava\guava\30.1.1-jre\guava-30.1.1-jre.jar;C:\Users\Buğra\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Buğra\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Buğra\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Buğra\.m2\repository\org\checkerframework\checker-qual\3.8.0\checker-qual-3.8.0.jar;C:\Users\Buğra\.m2\repository\com\google\errorprone\error_prone_annotations\2.5.1\error_prone_annotations-2.5.1.jar;C:\Users\Buğra\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;C:\Users\Buğra\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\Buğra\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\Buğra\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;C:\Users\Buğra\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;C:\Users\Buğra\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;C:\Users\Buğra\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\Buğra\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Buğra\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\Buğra\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\Buğra\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Buğra\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\Buğra\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.3\log4j-api-2.13.3.jar;C:\Users\Buğra\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.3\log4j-core-2.13.3.jar
+15-06-2022 16:00:15.033 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk1.8.0_291\jre\bin\java.exe
+15-06-2022 16:00:15.033 [java] [DEBUG] running - C:\Program Files\Java\jdk1.8.0_291\jre\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+15-06-2022 16:00:15.033 [java] [DEBUG] stdout/stderr is logged to logs\3156-java.exe.out
+15-06-2022 16:00:15.363 [java] [DEBUG] multithreading is set to false
+15-06-2022 16:00:15.986 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+15-06-2022 16:00:17.847 [java] [DEBUG] gauge-java took 2469milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+15-06-2022 16:00:17.847 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 2469
+15-06-2022 16:00:17.847 [java] [DEBUG] starting gRPC server...
+15-06-2022 16:00:18.582 [java] [DEBUG] started gRPC server on port 56079
+15-06-2022 16:00:18.582 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56079
+15-06-2022 16:00:18.845 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56079
+15-06-2022 16:00:18.845 [Gauge] [DEBUG] Validation started.
+15-06-2022 16:00:21.257 [java] [DEBUG] Scanning packages for steps
+15-06-2022 16:00:21.283 [java] [DEBUG] Comparing 'Test.StepImplementation.addToBasket' and 'Test.StepImplementation.addToBasket'
+15-06-2022 16:00:21.283 [java] [DEBUG] Found Sepete ekle in current project scope.
+15-06-2022 16:00:21.284 [java] [DEBUG] Comparing 'Test.StepImplementation.AssertBack' and 'Test.StepImplementation.AssertBack'
+15-06-2022 16:00:21.284 [java] [DEBUG] Found elementte {} değeri var mı in current project scope.
+15-06-2022 16:00:21.286 [java] [DEBUG] Comparing 'Test.StepImplementation.implementation1' and 'Test.StepImplementation.implementation1'
+15-06-2022 16:00:21.286 [java] [DEBUG] Found {} saniye kadar bekle in current project scope.
+15-06-2022 16:00:21.286 [java] [DEBUG] Comparing 'Test.StepImplementation.searchButton' and 'Test.StepImplementation.searchButton'
+15-06-2022 16:00:21.286 [java] [DEBUG] Found Arama Butonuna Tıklama in current project scope.
+15-06-2022 16:00:21.286 [java] [DEBUG] Comparing 'Test.StepImplementation.productIndex' and 'Test.StepImplementation.productIndex'
+15-06-2022 16:00:21.286 [java] [DEBUG] Found Urun detayi in current project scope.
+15-06-2022 16:00:21.286 [java] [DEBUG] Comparing 'Test.StepImplementation.waitForSecond' and 'Test.StepImplementation.waitForSecond'
+15-06-2022 16:00:21.286 [java] [DEBUG] Found {} saniye bekle in current project scope.
+15-06-2022 16:00:21.286 [java] [DEBUG] Comparing 'Test.StepImplementation.List' and 'Test.StepImplementation.List'
+15-06-2022 16:00:21.286 [java] [DEBUG] Found Miktar seçme in current project scope.
+15-06-2022 16:00:21.289 [java] [DEBUG] Comparing 'Test.StepImplementation.Basket' and 'Test.StepImplementation.Basket'
+15-06-2022 16:00:21.289 [java] [DEBUG] Found Sepete Git in current project scope.
+15-06-2022 16:00:21.289 [java] [DEBUG] Comparing 'Test.StepImplementation.scrollToElement' and 'Test.StepImplementation.scrollToElement'
+15-06-2022 16:00:21.289 [java] [DEBUG] Found Urune IN in current project scope.
+15-06-2022 16:00:21.289 [java] [DEBUG] Comparing 'Test.StepImplementation.searchKey' and 'Test.StepImplementation.searchKey'
+15-06-2022 16:00:21.290 [java] [DEBUG] Found Arama kutusuna {} yazıldı in current project scope.
+15-06-2022 16:00:21.290 [java] [DEBUG] Scanning packages for hooks
+15-06-2022 16:00:21.306 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+15-06-2022 16:00:21.308 [java] [DEBUG] 	Sepete ekle : public void addToBasket()
+15-06-2022 16:00:21.308 [java] [DEBUG] 	Arama Butonuna Tıklama : public void searchButton()
+15-06-2022 16:00:21.308 [java] [DEBUG] 	Sepete Git : public void Basket()
+15-06-2022 16:00:21.308 [java] [DEBUG] 	{} saniye bekle : public void waitForSecond(Integer x) throws InterruptedException
+15-06-2022 16:00:21.308 [java] [DEBUG] 	Urun detayi : public void productIndex()
+15-06-2022 16:00:21.308 [java] [DEBUG] 	elementte {} değeri var mı : public void AssertBack()
+15-06-2022 16:00:21.308 [java] [DEBUG] 	Miktar seçme : public void List()
+15-06-2022 16:00:21.308 [java] [DEBUG] 	{} saniye kadar bekle : public void implementation1(Object arg0)
+15-06-2022 16:00:21.308 [java] [DEBUG] 	Urune IN : public void scrollToElement()
+15-06-2022 16:00:21.308 [java] [DEBUG] 	Arama kutusuna {} yazıldı : public void searchKey(String key)
+15-06-2022 16:00:24.326 [Gauge] [DEBUG] Validation completed.
+15-06-2022 16:00:24.326 [Gauge] [DEBUG] Run started
+15-06-2022 16:00:24.329 [Gauge] [DEBUG] Starting Html Report plugin
+15-06-2022 16:00:24.355 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56085
+15-06-2022 16:00:24.356 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56085
+15-06-2022 16:00:24.356 [Gauge] [DEBUG] Initialising suite data store.
+15-06-2022 16:00:28.938 [java] [DEBUG] Executing 'Arama Butonuna Tıklama' using 'class Test.StepImplementation.searchButton
+15-06-2022 16:00:29.183 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 16:00:31.199 [java] [DEBUG] Executing 'Arama kutusuna {} yazıldı' using 'class Test.StepImplementation.searchKey
+15-06-2022 16:00:32.042 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 16:00:34.058 [java] [DEBUG] Executing 'Urune IN' using 'class Test.StepImplementation.scrollToElement
+15-06-2022 16:00:34.135 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 16:00:36.161 [java] [DEBUG] Executing 'Urun detayi' using 'class Test.StepImplementation.productIndex
+15-06-2022 16:00:38.864 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 16:00:40.881 [java] [DEBUG] Executing 'Miktar seçme' using 'class Test.StepImplementation.List
+15-06-2022 16:00:41.219 [java] [DEBUG] Executing 'Sepete ekle' using 'class Test.StepImplementation.addToBasket
+15-06-2022 16:00:41.392 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 16:00:43.410 [java] [DEBUG] Executing 'Sepete Git' using 'class Test.StepImplementation.Basket
+15-06-2022 16:00:44.575 [java] [DEBUG] Executing 'elementte {} değeri var mı' using 'class Test.StepImplementation.AssertBack
+15-06-2022 16:00:45.438 [html-report] [DEBUG] Transformed SuiteResult to report structure
+15-06-2022 16:00:45.499 [html-report] [INFO] Successfully generated html-report to => C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\reports\html-report\index.html
+15-06-2022 16:00:45.500 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\Buğra\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+15-06-2022 16:00:45.500 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+15-06-2022 16:00:45.539 [java] [DEBUG] Killing Java runner...
+15-06-2022 16:00:45.540 [java] [DEBUG] Stopping execution pool...
+15-06-2022 16:00:45.540 [java] [DEBUG] Shutting down grpc server...
+15-06-2022 16:00:45.540 [java] [DEBUG] Runner killed gracefully.
+15-06-2022 16:00:46.205 [Gauge] [DEBUG] Runner with PID:3156 has exited
+15-06-2022 16:00:46.205 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+15-06-2022 16:00:46.205 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15-06-2022 16:00:46.206 [Gauge] [INFO] 
+Total time taken: 21.105s
+15-06-2022 16:00:46.206 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+15-06-2022 16:08:36.988 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\.gauge\screenshots
+15-06-2022 16:08:36.992 [Gauge] [DEBUG] Plugin java is already installed.
+15-06-2022 16:08:36.994 [Gauge] [DEBUG] Plugin html-report is already installed.
+15-06-2022 16:08:36.995 [Gauge] [DEBUG] Parsing started.
+15-06-2022 16:08:36.995 [Gauge] [DEBUG] Started concepts parsing.
+15-06-2022 16:08:37.005 [Gauge] [DEBUG] 0 concepts parsing completed.
+15-06-2022 16:08:37.005 [Gauge] [DEBUG] Started specifications parsing.
+15-06-2022 16:08:37.007 [Gauge] [DEBUG] 1 specifications parsing completed.
+15-06-2022 16:08:37.007 [Gauge] [DEBUG] Parsing completed.
+15-06-2022 16:08:37.060 [java] [DEBUG] ***** Printing Properties/Env Values *****
+15-06-2022 16:08:37.060 [java] [DEBUG] PATH: C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\VulkanSDK\1.3.211.0\Bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.8.0_291\bin;C:\Program Files\Maven\apache-maven-3.6.3\bin;C:\Program Files\Gauge\bin;C:\Users\Buğra\AppData\Local\Microsoft\WindowsApps;C:\Users\Buğra\AppData\Roaming\npm;C:\Users\Buğra\AppData\Roaming\gauge\plugins\screenshot\0.1.0
+15-06-2022 16:08:37.060 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk1.8.0_291
+15-06-2022 16:08:37.060 [java] [DEBUG] gauge_project_root: C:\Users\Buğra\IdeaProjects\IdeasoftAssigment
+15-06-2022 16:08:37.060 [java] [DEBUG] gauge_parallel_streams_count: 
+15-06-2022 16:08:37.060 [java] [DEBUG] gauge_reports_dir: reports
+15-06-2022 16:08:37.060 [java] [DEBUG] overwrite_reports: true
+15-06-2022 16:08:37.060 [java] [DEBUG] logs_directory: logs
+15-06-2022 16:08:37.060 [java] [DEBUG] enable_multithreading: 
+15-06-2022 16:08:37.060 [java] [DEBUG] gauge_specs_dir: specs
+15-06-2022 16:08:37.060 [java] [DEBUG] csv_delimiter: ,
+15-06-2022 16:08:37.060 [java] [DEBUG] gauge_java_home: 
+15-06-2022 16:08:37.060 [java] [DEBUG] gauge_custom_build_path: 
+15-06-2022 16:08:37.060 [java] [DEBUG] gauge_additional_libs: libs/*
+15-06-2022 16:08:37.061 [java] [DEBUG] gauge_jvm_args: 
+15-06-2022 16:08:37.061 [java] [DEBUG] gauge_custom_compile_dir: 
+15-06-2022 16:08:37.061 [java] [DEBUG] gauge_clear_state_level: scenario
+15-06-2022 16:08:37.061 [java] [DEBUG] ***** END *****
+15-06-2022 16:08:37.461 [Gauge] [DEBUG] Checking updates...
+15-06-2022 16:08:37.465 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 16:08:37.820 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 16:08:37.937 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 16:08:38.020 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 16:08:38.111 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 16:08:43.011 [java] [ERROR] Installed version of gauge-java (0.9.1) does not match with dependency gauge-java (0.7.15) specified in pom.xml file
+15-06-2022 16:08:43.011 [java] [DEBUG] classpath set to C:\Program Files\Java\jdk1.8.0_291\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\rt.jar;C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\target\test-classes;C:\Users\Buğra\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;C:\Users\Buğra\.m2\repository\org\assertj\assertj-core\3.19.0\assertj-core-3.19.0.jar;C:\Users\Buğra\.m2\repository\org\reflections\reflections\0.9.9\reflections-0.9.9.jar;C:\Users\Buğra\.m2\repository\org\javassist\javassist\3.18.2-GA\javassist-3.18.2-GA.jar;C:\Users\Buğra\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\Buğra\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\Buğra\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\Buğra\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\Buğra\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\Buğra\.m2\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;C:\Users\Buğra\.m2\repository\com\google\guava\guava\30.1.1-jre\guava-30.1.1-jre.jar;C:\Users\Buğra\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Buğra\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Buğra\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Buğra\.m2\repository\org\checkerframework\checker-qual\3.8.0\checker-qual-3.8.0.jar;C:\Users\Buğra\.m2\repository\com\google\errorprone\error_prone_annotations\2.5.1\error_prone_annotations-2.5.1.jar;C:\Users\Buğra\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;C:\Users\Buğra\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\Buğra\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\Buğra\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;C:\Users\Buğra\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;C:\Users\Buğra\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;C:\Users\Buğra\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\Buğra\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Buğra\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\Buğra\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\Buğra\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Buğra\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\Buğra\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.3\log4j-api-2.13.3.jar;C:\Users\Buğra\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.3\log4j-core-2.13.3.jar
+15-06-2022 16:08:43.083 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk1.8.0_291\jre\bin\java.exe
+15-06-2022 16:08:43.083 [java] [DEBUG] running - C:\Program Files\Java\jdk1.8.0_291\jre\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+15-06-2022 16:08:43.083 [java] [DEBUG] stdout/stderr is logged to logs\4804-java.exe.out
+15-06-2022 16:08:43.425 [java] [DEBUG] multithreading is set to false
+15-06-2022 16:08:44.063 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+15-06-2022 16:08:46.049 [java] [DEBUG] gauge-java took 2584milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+15-06-2022 16:08:46.049 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 2584
+15-06-2022 16:08:46.049 [java] [DEBUG] starting gRPC server...
+15-06-2022 16:08:46.876 [java] [DEBUG] started gRPC server on port 56396
+15-06-2022 16:08:46.877 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56396
+15-06-2022 16:08:47.171 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56396
+15-06-2022 16:08:47.171 [Gauge] [DEBUG] Validation started.
+15-06-2022 16:08:49.589 [java] [DEBUG] Scanning packages for steps
+15-06-2022 16:08:49.618 [java] [DEBUG] Comparing 'Test.StepImplementation.addToBasket' and 'Test.StepImplementation.addToBasket'
+15-06-2022 16:08:49.620 [java] [DEBUG] Found Sepete ekle in current project scope.
+15-06-2022 16:08:49.620 [java] [DEBUG] Comparing 'Test.StepImplementation.AssertBack' and 'Test.StepImplementation.AssertBack'
+15-06-2022 16:08:49.620 [java] [DEBUG] Found elementte {} değeri var mı in current project scope.
+15-06-2022 16:08:49.620 [java] [DEBUG] Comparing 'Test.StepImplementation.implementation1' and 'Test.StepImplementation.implementation1'
+15-06-2022 16:08:49.620 [java] [DEBUG] Found {} saniye kadar bekle in current project scope.
+15-06-2022 16:08:49.620 [java] [DEBUG] Comparing 'Test.StepImplementation.searchButton' and 'Test.StepImplementation.searchButton'
+15-06-2022 16:08:49.620 [java] [DEBUG] Found Arama Butonuna Tıklama in current project scope.
+15-06-2022 16:08:49.620 [java] [DEBUG] Comparing 'Test.StepImplementation.productIndex' and 'Test.StepImplementation.productIndex'
+15-06-2022 16:08:49.620 [java] [DEBUG] Found Urun detayi in current project scope.
+15-06-2022 16:08:49.620 [java] [DEBUG] Comparing 'Test.StepImplementation.waitForSecond' and 'Test.StepImplementation.waitForSecond'
+15-06-2022 16:08:49.620 [java] [DEBUG] Found {} saniye bekle in current project scope.
+15-06-2022 16:08:49.620 [java] [DEBUG] Comparing 'Test.StepImplementation.List' and 'Test.StepImplementation.List'
+15-06-2022 16:08:49.621 [java] [DEBUG] Found Miktar seçme in current project scope.
+15-06-2022 16:08:49.621 [java] [DEBUG] Comparing 'Test.StepImplementation.Basket' and 'Test.StepImplementation.Basket'
+15-06-2022 16:08:49.621 [java] [DEBUG] Found Sepete Git in current project scope.
+15-06-2022 16:08:49.622 [java] [DEBUG] Comparing 'Test.StepImplementation.scrollToElement' and 'Test.StepImplementation.scrollToElement'
+15-06-2022 16:08:49.622 [java] [DEBUG] Found Urune IN in current project scope.
+15-06-2022 16:08:49.622 [java] [DEBUG] Comparing 'Test.StepImplementation.searchKey' and 'Test.StepImplementation.searchKey'
+15-06-2022 16:08:49.622 [java] [DEBUG] Found Arama kutusuna {} yazıldı in current project scope.
+15-06-2022 16:08:49.622 [java] [DEBUG] Scanning packages for hooks
+15-06-2022 16:08:49.639 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+15-06-2022 16:08:49.646 [java] [DEBUG] 	Sepete ekle : public void addToBasket()
+15-06-2022 16:08:49.646 [java] [DEBUG] 	Arama Butonuna Tıklama : public void searchButton()
+15-06-2022 16:08:49.646 [java] [DEBUG] 	Sepete Git : public void Basket()
+15-06-2022 16:08:49.646 [java] [DEBUG] 	{} saniye bekle : public void waitForSecond(Integer x) throws InterruptedException
+15-06-2022 16:08:49.646 [java] [DEBUG] 	Urun detayi : public void productIndex()
+15-06-2022 16:08:49.646 [java] [DEBUG] 	elementte {} değeri var mı : public void AssertBack()
+15-06-2022 16:08:49.646 [java] [DEBUG] 	Miktar seçme : public void List()
+15-06-2022 16:08:49.646 [java] [DEBUG] 	{} saniye kadar bekle : public void implementation1(Object arg0)
+15-06-2022 16:08:49.646 [java] [DEBUG] 	Urune IN : public void scrollToElement()
+15-06-2022 16:08:49.646 [java] [DEBUG] 	Arama kutusuna {} yazıldı : public void searchKey(String key)
+15-06-2022 16:08:53.173 [Gauge] [DEBUG] Validation completed.
+15-06-2022 16:08:53.174 [Gauge] [DEBUG] Run started
+15-06-2022 16:08:53.176 [Gauge] [DEBUG] Starting Html Report plugin
+15-06-2022 16:08:53.213 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56402
+15-06-2022 16:08:53.215 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56402
+15-06-2022 16:08:53.215 [Gauge] [DEBUG] Initialising suite data store.
+15-06-2022 16:08:58.846 [java] [DEBUG] Executing 'Arama Butonuna Tıklama' using 'class Test.StepImplementation.searchButton
+15-06-2022 16:08:59.083 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 16:09:01.091 [java] [DEBUG] Executing 'Arama kutusuna {} yazıldı' using 'class Test.StepImplementation.searchKey
+15-06-2022 16:09:01.849 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 16:09:03.863 [java] [DEBUG] Executing 'Urune IN' using 'class Test.StepImplementation.scrollToElement
+15-06-2022 16:09:03.957 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 16:09:05.975 [java] [DEBUG] Executing 'Urun detayi' using 'class Test.StepImplementation.productIndex
+15-06-2022 16:09:09.701 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 16:09:11.714 [java] [DEBUG] Executing 'Miktar seçme' using 'class Test.StepImplementation.List
+15-06-2022 16:09:12.017 [java] [DEBUG] Executing 'Sepete ekle' using 'class Test.StepImplementation.addToBasket
+15-06-2022 16:09:12.173 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 16:09:14.181 [java] [DEBUG] Executing 'Sepete Git' using 'class Test.StepImplementation.Basket
+15-06-2022 16:09:19.347 [java] [DEBUG] Executing 'elementte {} değeri var mı' using 'class Test.StepImplementation.AssertBack
+15-06-2022 16:09:20.436 [html-report] [DEBUG] Transformed SuiteResult to report structure
+15-06-2022 16:09:20.525 [html-report] [INFO] Successfully generated html-report to => C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\reports\html-report\index.html
+15-06-2022 16:09:20.525 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\Buğra\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+15-06-2022 16:09:20.525 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+15-06-2022 16:09:20.534 [java] [DEBUG] Killing Java runner...
+15-06-2022 16:09:20.537 [java] [DEBUG] Stopping execution pool...
+15-06-2022 16:09:20.537 [java] [DEBUG] Shutting down grpc server...
+15-06-2022 16:09:20.558 [java] [DEBUG] Runner killed gracefully.
+15-06-2022 16:09:21.317 [Gauge] [DEBUG] Runner with PID:4804 has exited
+15-06-2022 16:09:21.317 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+15-06-2022 16:09:21.317 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15-06-2022 16:09:21.317 [Gauge] [INFO] 
+Total time taken: 27.247s
+15-06-2022 16:09:21.318 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+15-06-2022 16:10:14.100 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\.gauge\screenshots
+15-06-2022 16:10:14.104 [Gauge] [DEBUG] Plugin java is already installed.
+15-06-2022 16:10:14.105 [Gauge] [DEBUG] Plugin html-report is already installed.
+15-06-2022 16:10:14.106 [Gauge] [DEBUG] Parsing started.
+15-06-2022 16:10:14.106 [Gauge] [DEBUG] Started concepts parsing.
+15-06-2022 16:10:14.116 [Gauge] [DEBUG] 0 concepts parsing completed.
+15-06-2022 16:10:14.117 [Gauge] [DEBUG] Started specifications parsing.
+15-06-2022 16:10:14.119 [Gauge] [DEBUG] 1 specifications parsing completed.
+15-06-2022 16:10:14.119 [Gauge] [DEBUG] Parsing completed.
+15-06-2022 16:10:14.161 [java] [DEBUG] ***** Printing Properties/Env Values *****
+15-06-2022 16:10:14.161 [java] [DEBUG] PATH: C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\VulkanSDK\1.3.211.0\Bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.8.0_291\bin;C:\Program Files\Maven\apache-maven-3.6.3\bin;C:\Program Files\Gauge\bin;C:\Users\Buğra\AppData\Local\Microsoft\WindowsApps;C:\Users\Buğra\AppData\Roaming\npm;C:\Users\Buğra\AppData\Roaming\gauge\plugins\screenshot\0.1.0
+15-06-2022 16:10:14.161 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk1.8.0_291
+15-06-2022 16:10:14.161 [java] [DEBUG] gauge_project_root: C:\Users\Buğra\IdeaProjects\IdeasoftAssigment
+15-06-2022 16:10:14.161 [java] [DEBUG] gauge_parallel_streams_count: 
+15-06-2022 16:10:14.162 [java] [DEBUG] gauge_reports_dir: reports
+15-06-2022 16:10:14.162 [java] [DEBUG] overwrite_reports: true
+15-06-2022 16:10:14.162 [java] [DEBUG] logs_directory: logs
+15-06-2022 16:10:14.162 [java] [DEBUG] enable_multithreading: 
+15-06-2022 16:10:14.162 [java] [DEBUG] gauge_specs_dir: specs
+15-06-2022 16:10:14.162 [java] [DEBUG] csv_delimiter: ,
+15-06-2022 16:10:14.162 [java] [DEBUG] gauge_java_home: 
+15-06-2022 16:10:14.162 [java] [DEBUG] gauge_custom_build_path: 
+15-06-2022 16:10:14.162 [java] [DEBUG] gauge_additional_libs: libs/*
+15-06-2022 16:10:14.162 [java] [DEBUG] gauge_jvm_args: 
+15-06-2022 16:10:14.162 [java] [DEBUG] gauge_custom_compile_dir: 
+15-06-2022 16:10:14.162 [java] [DEBUG] gauge_clear_state_level: scenario
+15-06-2022 16:10:14.162 [java] [DEBUG] ***** END *****
+15-06-2022 16:10:14.519 [Gauge] [DEBUG] Checking updates...
+15-06-2022 16:10:14.523 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 16:10:14.859 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 16:10:14.965 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 16:10:15.044 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 16:10:15.144 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+15-06-2022 16:10:20.248 [java] [ERROR] Installed version of gauge-java (0.9.1) does not match with dependency gauge-java (0.7.15) specified in pom.xml file
+15-06-2022 16:10:20.248 [java] [DEBUG] classpath set to C:\Program Files\Java\jdk1.8.0_291\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\rt.jar;C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\target\test-classes;C:\Users\Buğra\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;C:\Users\Buğra\.m2\repository\org\assertj\assertj-core\3.19.0\assertj-core-3.19.0.jar;C:\Users\Buğra\.m2\repository\org\reflections\reflections\0.9.9\reflections-0.9.9.jar;C:\Users\Buğra\.m2\repository\org\javassist\javassist\3.18.2-GA\javassist-3.18.2-GA.jar;C:\Users\Buğra\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\Buğra\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\Buğra\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\Buğra\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\Buğra\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\Buğra\.m2\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;C:\Users\Buğra\.m2\repository\com\google\guava\guava\30.1.1-jre\guava-30.1.1-jre.jar;C:\Users\Buğra\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Buğra\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Buğra\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Buğra\.m2\repository\org\checkerframework\checker-qual\3.8.0\checker-qual-3.8.0.jar;C:\Users\Buğra\.m2\repository\com\google\errorprone\error_prone_annotations\2.5.1\error_prone_annotations-2.5.1.jar;C:\Users\Buğra\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;C:\Users\Buğra\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\Buğra\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\Buğra\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;C:\Users\Buğra\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;C:\Users\Buğra\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\Buğra\.m2\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;C:\Users\Buğra\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\Buğra\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Buğra\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\Buğra\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\Buğra\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Buğra\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\Buğra\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\Buğra\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\Buğra\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.3\log4j-api-2.13.3.jar;C:\Users\Buğra\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.3\log4j-core-2.13.3.jar
+15-06-2022 16:10:20.340 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk1.8.0_291\jre\bin\java.exe
+15-06-2022 16:10:20.340 [java] [DEBUG] running - C:\Program Files\Java\jdk1.8.0_291\jre\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+15-06-2022 16:10:20.340 [java] [DEBUG] stdout/stderr is logged to logs\6700-java.exe.out
+15-06-2022 16:10:20.685 [java] [DEBUG] multithreading is set to false
+15-06-2022 16:10:21.329 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+15-06-2022 16:10:23.265 [java] [DEBUG] gauge-java took 2550milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+15-06-2022 16:10:23.265 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 2550
+15-06-2022 16:10:23.265 [java] [DEBUG] starting gRPC server...
+15-06-2022 16:10:24.054 [java] [DEBUG] started gRPC server on port 56489
+15-06-2022 16:10:24.054 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56489
+15-06-2022 16:10:24.347 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56489
+15-06-2022 16:10:24.347 [Gauge] [DEBUG] Validation started.
+15-06-2022 16:10:26.816 [java] [DEBUG] Scanning packages for steps
+15-06-2022 16:10:26.844 [java] [DEBUG] Comparing 'Test.StepImplementation.addToBasket' and 'Test.StepImplementation.addToBasket'
+15-06-2022 16:10:26.844 [java] [DEBUG] Found Sepete ekle in current project scope.
+15-06-2022 16:10:26.844 [java] [DEBUG] Comparing 'Test.StepImplementation.AssertBack' and 'Test.StepImplementation.AssertBack'
+15-06-2022 16:10:26.844 [java] [DEBUG] Found elementte seçilen değer var mı in current project scope.
+15-06-2022 16:10:26.844 [java] [DEBUG] Comparing 'Test.StepImplementation.implementation1' and 'Test.StepImplementation.implementation1'
+15-06-2022 16:10:26.844 [java] [DEBUG] Found {} saniye kadar bekle in current project scope.
+15-06-2022 16:10:26.844 [java] [DEBUG] Comparing 'Test.StepImplementation.searchButton' and 'Test.StepImplementation.searchButton'
+15-06-2022 16:10:26.844 [java] [DEBUG] Found Arama Butonuna Tıklama in current project scope.
+15-06-2022 16:10:26.844 [java] [DEBUG] Comparing 'Test.StepImplementation.productIndex' and 'Test.StepImplementation.productIndex'
+15-06-2022 16:10:26.844 [java] [DEBUG] Found Urun detayi in current project scope.
+15-06-2022 16:10:26.845 [java] [DEBUG] Comparing 'Test.StepImplementation.waitForSecond' and 'Test.StepImplementation.waitForSecond'
+15-06-2022 16:10:26.845 [java] [DEBUG] Found {} saniye bekle in current project scope.
+15-06-2022 16:10:26.845 [java] [DEBUG] Comparing 'Test.StepImplementation.List' and 'Test.StepImplementation.List'
+15-06-2022 16:10:26.845 [java] [DEBUG] Found Miktar seçme in current project scope.
+15-06-2022 16:10:26.845 [java] [DEBUG] Comparing 'Test.StepImplementation.Basket' and 'Test.StepImplementation.Basket'
+15-06-2022 16:10:26.845 [java] [DEBUG] Found Sepete Git in current project scope.
+15-06-2022 16:10:26.846 [java] [DEBUG] Comparing 'Test.StepImplementation.scrollToElement' and 'Test.StepImplementation.scrollToElement'
+15-06-2022 16:10:26.846 [java] [DEBUG] Found Urune IN in current project scope.
+15-06-2022 16:10:26.846 [java] [DEBUG] Comparing 'Test.StepImplementation.searchKey' and 'Test.StepImplementation.searchKey'
+15-06-2022 16:10:26.846 [java] [DEBUG] Found Arama kutusuna {} yazıldı in current project scope.
+15-06-2022 16:10:26.846 [java] [DEBUG] Scanning packages for hooks
+15-06-2022 16:10:26.868 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+15-06-2022 16:10:26.868 [java] [DEBUG] 	Sepete ekle : public void addToBasket()
+15-06-2022 16:10:26.868 [java] [DEBUG] 	Arama Butonuna Tıklama : public void searchButton()
+15-06-2022 16:10:26.868 [java] [DEBUG] 	Sepete Git : public void Basket()
+15-06-2022 16:10:26.868 [java] [DEBUG] 	{} saniye bekle : public void waitForSecond(Integer x) throws InterruptedException
+15-06-2022 16:10:26.869 [java] [DEBUG] 	Urun detayi : public void productIndex()
+15-06-2022 16:10:26.869 [java] [DEBUG] 	Miktar seçme : public void List()
+15-06-2022 16:10:26.869 [java] [DEBUG] 	{} saniye kadar bekle : public void implementation1(Object arg0)
+15-06-2022 16:10:26.869 [java] [DEBUG] 	Urune IN : public void scrollToElement()
+15-06-2022 16:10:26.869 [java] [DEBUG] 	Arama kutusuna {} yazıldı : public void searchKey(String key)
+15-06-2022 16:10:26.869 [java] [DEBUG] 	elementte seçilen değer var mı : public void AssertBack()
+15-06-2022 16:10:29.887 [Gauge] [DEBUG] Validation completed.
+15-06-2022 16:10:29.888 [Gauge] [DEBUG] Run started
+15-06-2022 16:10:29.890 [Gauge] [DEBUG] Starting Html Report plugin
+15-06-2022 16:10:29.919 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56494
+15-06-2022 16:10:29.920 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56494
+15-06-2022 16:10:29.920 [Gauge] [DEBUG] Initialising suite data store.
+15-06-2022 16:10:35.103 [java] [DEBUG] Executing 'Arama Butonuna Tıklama' using 'class Test.StepImplementation.searchButton
+15-06-2022 16:10:35.362 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 16:10:37.387 [java] [DEBUG] Executing 'Arama kutusuna {} yazıldı' using 'class Test.StepImplementation.searchKey
+15-06-2022 16:10:37.992 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 16:10:40.032 [java] [DEBUG] Executing 'Urune IN' using 'class Test.StepImplementation.scrollToElement
+15-06-2022 16:10:40.136 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 16:10:42.143 [java] [DEBUG] Executing 'Urun detayi' using 'class Test.StepImplementation.productIndex
+15-06-2022 16:10:44.373 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 16:10:46.384 [java] [DEBUG] Executing 'Miktar seçme' using 'class Test.StepImplementation.List
+15-06-2022 16:10:46.663 [java] [DEBUG] Executing 'Sepete ekle' using 'class Test.StepImplementation.addToBasket
+15-06-2022 16:10:46.805 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 16:10:48.823 [java] [DEBUG] Executing 'Sepete Git' using 'class Test.StepImplementation.Basket
+15-06-2022 16:10:50.450 [java] [DEBUG] Executing 'elementte seçilen değer var mı' using 'class Test.StepImplementation.AssertBack
+15-06-2022 16:10:50.505 [java] [DEBUG] Executing '{} saniye bekle' using 'class Test.StepImplementation.waitForSecond
+15-06-2022 16:11:11.270 [html-report] [DEBUG] Transformed SuiteResult to report structure
+15-06-2022 16:11:11.330 [html-report] [INFO] Successfully generated html-report to => C:\Users\Buğra\IdeaProjects\IdeasoftAssigment\reports\html-report\index.html
+15-06-2022 16:11:11.330 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\Buğra\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+15-06-2022 16:11:11.330 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+15-06-2022 16:11:11.339 [java] [DEBUG] Killing Java runner...
+15-06-2022 16:11:11.345 [java] [DEBUG] Stopping execution pool...
+15-06-2022 16:11:11.345 [java] [DEBUG] Shutting down grpc server...
+15-06-2022 16:11:11.367 [java] [DEBUG] Runner killed gracefully.
+15-06-2022 16:11:12.140 [Gauge] [DEBUG] Runner with PID:6700 has exited
+15-06-2022 16:11:12.141 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+15-06-2022 16:11:12.141 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15-06-2022 16:11:12.141 [Gauge] [INFO] 
+Total time taken: 41.381s
+15-06-2022 16:11:12.142 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
